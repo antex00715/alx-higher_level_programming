@@ -1,8 +1,3 @@
-/*
- * File: 10-check_cycle.c
- * Auth: antex
- */
-
 #include <stdlib.h>
 #include "lists.h"
 
